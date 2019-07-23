@@ -8,7 +8,7 @@ class HelloController {
   public function content() {
     return array(
       '#type' => 'markup',
-      '#markup' => t('Hello, World!'),
+      '#markup' => t('Changes by 2pac'),
     );
   }
 }
